@@ -6,10 +6,27 @@ return {
 		fall =  "rbxassetid://99457463463495",
 		jump =  "rbxassetid://129527230938281",
 		run =   "rbxassetid://123973978164540",
-		walk =  "rbxassetid://75183215343859",
+		walk =  "rbxassetid://87016985886252",
 		swim =  "rbxassetid://119007025452432"
 	},
+
+	["CuteWave"] = {
+		idle =  "rbxassetid://110604733161954",
+		climb = "rbxassetid://134283157573581",
+		fall =  "rbxassetid://88582791671646",
+		jump =  "rbxassetid://75211096170063",
+		run =   "rbxassetid://132565671235504",
+		walk =  "rbxassetid://87016985886252",
+		swim =  "rbxassetid://72620812593886"
+	},
+	
 	["GrayscaledIdle"] = "rbxassetid://73137983344853",
+
+
+	["CuteShyWave"] = "rbxassetid://73137983344853",
+
+	["CuteWave2"] = "rbxassetid://101089846839621",
+	
 	
 	["ZEN"] = "rbxassetid://82524388758029",
 	["KingOfRBX"] = "rbxassetid://96282499056792",
